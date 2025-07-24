@@ -1,0 +1,26 @@
+Reconnaissance Tools Discussed:
+Domain Dossier:(opens in a new tab)** **This is a tool that investigates domain names and IP addresses. 
+Using this web application, you are able to collect your target’s whois record, DNS records, traceroute information, and 
+a service scan is performed.
+https://centralops.net/co/DomainDossier.aspx
+
+Traceroute: A popular network diagnostic tool that reveals the route that is taken in order to reach your target. 
+This information can prove to be valuable when you are trying to map out your target network.
+
+Email Dossier(opens in a new tab): Another tool that allows you to check if an email address is in use as well as the MX 
+records that are associated with that email.
+https://centralops.net/co/emailDossier.aspx
+
+Discover(opens in a new tab): In Kali Linux, you can use the discover script to gather information using a single script.
+https://github.com/leebaird/discover
+
+MXToolBox(opens in a new tab): This site will list MX records for a domain. 
+You can even paste an email header on this site and be able to track the sender’s location with the output provided.
+https://mxtoolbox.com/
+
+Maltego(opens in a new tab): This tool is used to enumerate the target system. By enumerating, we are able to list out the target assets by the numbers. 
+Maltego is a powerful tool because it can enumerate your target assets and show the relationship between them.
+https://www.maltego.com/
+
+Recon-ng(opens in a new tab): This is a free web reconnaissance tool. This tool automates the process of gathering 
+information quickly from open-source web information. https://github.com/lanmaster53/recon-ng

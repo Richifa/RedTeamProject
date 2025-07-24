@@ -1,0 +1,31 @@
+WHOIS(opens in a new tab): This is a database that stores domain names and the individual to whom it's registered
+https://www.whois.com/
+
+Shodan(opens in a new tab): This is a robust tool that can be used for passive recon and beyond… S
+hodan is a search engine for devices that are reachable from the internet.  https://www.shodan.io/
+
+Netcraft(opens in a new tab): You can use Netcraft to find out more information about your target's network, SSL/TLS, 
+hosting history, and sender policy framework, to name a few.
+https://www.netcraft.com/
+
+Archive.org(opens in a new tab): Like a library, it is a digital archive of the internet. 
+Using this method, you will be able to see how your target has evolved over time.  https://archive.org/
+
+
+Creepy(opens in a new tab): This is a tool that gathers data from social networks like Twitter, Instagram, 
+and other online sources to give you geographical information about when people make their posts.
+https://www.geocreepy.com/
+
+The website platform by revealing the source code
+Exploits for the plugins in Exploit Database(opens in a new tab)
+https://www.exploit-db.com/
+
+Typosquatting ideas using Hover
+https://www.hover.com/
+
+DNS mapping using Ultratools. As Ultratools is no longer available, 
+you can use NsLookup(opens in a new tab) as an alternative. https://www.nslookup.io/website-to-ip-lookup/
+
+The internet cache on WayBack Machine
+
+

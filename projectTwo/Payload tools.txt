@@ -1,0 +1,5 @@
+Shellter(opens in a new tab): A tool to inject shellcodes into binaries
+https://www.shellterproject.com/
+
+Donut(opens in a new tab): Allows the generation of shellcodes for .NET assemblies
+https://github.com/TheWover/donut
